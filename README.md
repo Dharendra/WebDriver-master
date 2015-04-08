@@ -1,7 +1,7 @@
 Project Build on
-Selenium Web Driver
-Java
-Junit
+Selenium Web Driver,
+Java,
+Junit,
 iPhone User Agent is used to Render Mobile Version the site.
-
-Please Run Test as : Junit Test
+Its a Maven Project,Please Make sure you have Maven Installed on Your IDE.
+Run Test as : Junit Test
